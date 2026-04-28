@@ -40,7 +40,7 @@ about:
   home: https://github.com/Azure/azure-sdk-for-python
   summary: Microsoft Azure Batch Management Client Library for Python
   license: MIT
-  license_file: LICENSE.txt
+  license_file: LICENSE
   license_family: MIT
   description: Microsoft Azure Batch Management Client Library for Python
   dev_url: https://github.com/Azure/azure-sdk-for-python
